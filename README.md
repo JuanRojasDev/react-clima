@@ -6,12 +6,14 @@ El código que ves aquí es el mismo que escribo en [este video](https://www.you
 
 ---
 
-# Instalar Dependencias
+## Instalar Dependencias
 
-''json("yarn install")
-''
+```json
+{"yarn install"}
+```
 
-# Inicializar el Prouecto
+## Inicializar el Prouecto
 
-''json("yarn start")
-''
+```json
+{"yarn start"}
+```
