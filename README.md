@@ -12,7 +12,7 @@ El código que ves aquí es el mismo que escribo en [este video](https://www.you
 {"yarn install"}
 ```
 
-## Inicializar el Prouecto
+## Inicializar el Proyecto
 
 ```json
 {"yarn start"}
